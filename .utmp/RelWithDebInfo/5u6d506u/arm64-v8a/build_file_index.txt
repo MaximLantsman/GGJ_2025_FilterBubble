@@ -1,0 +1,3 @@
+W:\UnityProjects\GGJ_2025_FilterBubble\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+W:\UnityProjects\GGJ_2025_FilterBubble\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
+W:\UnityProjects\GGJ_2025_FilterBubble\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

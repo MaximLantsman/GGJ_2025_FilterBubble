@@ -506,7 +506,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: bad6fb94ad979264a813c44c2d2da6c5, type: 3}
   m_Resource: {fileID: 8300000, guid: bad6fb94ad979264a813c44c2d2da6c5, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.2
+  m_Volume: 0.02
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -659,7 +659,7 @@ Canvas:
   m_GameObject: {fileID: 186182251}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 519420031}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -1029,7 +1029,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -4178046375966092550, guid: 56c18c016a197084983c4b188561a107, type: 3}
+  m_Sprite: {fileID: 3326971659086699885, guid: 7f9e36bd3c2692440aab0e0c1644d678, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1711,8 +1711,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.00012207031, y: 0}
-  m_SizeDelta: {x: 1920, y: 1080}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 3000, y: 1500}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &549311047
 MonoBehaviour:
@@ -2262,7 +2262,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 91.4, y: 49.4}
+  m_AnchoredPosition: {x: 91.399994, y: 49.399994}
   m_SizeDelta: {x: 170, y: 130}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &781983085
@@ -2854,16 +2854,16 @@ MonoBehaviour:
   directionThreshold: 300
   changePercentileValue: 0.02
   changePercentileValueOnPass: 0.01
-  loseSound: {fileID: 8300000, guid: aa8c899a1606f35489e0c5f2bdc774fe, type: 3}
+  loseSound: {fileID: 8300000, guid: 1915a77c99a2b374893efbd3a10428b1, type: 3}
   winSound: {fileID: 8300000, guid: 1519e7f45a6267a418cdacc61759abd8, type: 3}
   fakeThreshold: 0.6
-  filterThemeThreshold: 0.27
+  filterThemeThreshold: 0.2
   beginSpawn: 5
   tutorialImageLeft: {fileID: -855298285791758126, guid: 4557fa06cc770fd4e8dee3182de1b0b1, type: 3}
   tutorialImageRight: {fileID: 6937817954938267909, guid: 5d8e8a84bd2e22749a14ea158b25b163, type: 3}
   tutorialImageFun: {fileID: -6470460504253458178, guid: 3d299943d51e3f0439e0493482116571, type: 3}
   tutorialImageFake: {fileID: -6470460504253458178, guid: 3d299943d51e3f0439e0493482116571, type: 3}
-  tutorialImageFakePass: {fileID: 4130640169021434097, guid: e33be2fef27f19d4a9e712f0ee56481b, type: 3}
+  tutorialImageFakePass: {fileID: 5986244224761071404, guid: 53d02c4c5fe0d0c4bbd1f9c74ba8b6b8, type: 3}
 --- !u!1 &984952478
 GameObject:
   m_ObjectHideFlags: 0
@@ -3221,7 +3221,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -120.5, y: 49.4}
+  m_AnchoredPosition: {x: -120.5, y: 49.399994}
   m_SizeDelta: {x: 170, y: 130}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &1151827779
@@ -3395,7 +3395,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -3859,7 +3859,7 @@ Canvas:
   m_GameObject: {fileID: 1275725866}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 519420031}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -3938,11 +3938,11 @@ RectTransform:
   - {fileID: 1050586539}
   m_Father: {fileID: 1275725871}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -524.18646, y: -29.361603}
-  m_SizeDelta: {x: 648.9319, y: 908.666}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 93.339966, y: 19.849976}
+  m_SizeDelta: {x: 685.73, y: 959.61}
+  m_Pivot: {x: 0, y: 0}
 --- !u!1 &1486458450
 GameObject:
   m_ObjectHideFlags: 0
@@ -4205,11 +4205,11 @@ RectTransform:
   - {fileID: 1151827778}
   m_Father: {fileID: 186182255}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -524.18646, y: -29.361603}
-  m_SizeDelta: {x: 648.9319, y: 908.666}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 98.1, y: 39.95}
+  m_SizeDelta: {x: 679.92, y: 930.93}
+  m_Pivot: {x: 0, y: 0}
 --- !u!1 &1664780594
 GameObject:
   m_ObjectHideFlags: 0

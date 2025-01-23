@@ -221,7 +221,7 @@ public class FillUpBrain : MonoBehaviour
         }
         redBubbles.Clear();
         
-        foreach (Bubble bubble in blueBubbles)
+        foreach (Bubble bubble in yellowBubbles)
         {
             bubble.BubblePop();
         }

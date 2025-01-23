@@ -221,6 +221,7 @@ public class NewsManagerScript : MonoBehaviour
         percentRedArticles = 0.25f;
         percentBlueArticles = 0.25f;
         percentYellowArticles = 0.50f;
+        
         newsDictionary[newsListRed] = percentRedArticles;
         newsDictionary[newsListBlue] = percentBlueArticles;
         newsDictionary[newsListYellow] = percentYellowArticles;
