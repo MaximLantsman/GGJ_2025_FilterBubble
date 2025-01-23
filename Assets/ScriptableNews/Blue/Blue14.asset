@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41cc5c93033bc640b315b76d4f94cd9, type: 3}
+  m_Name: Blue14
+  m_EditorClassIdentifier: 
+  newstitle: Guns more then kill
+  newsImage: {fileID: 9176331173572541020, guid: 03041d630fb6a084a81329f9a2c0d0ce, type: 3}
+  bluePercent: 0.2
+  redPercent: -0.1
+  stressPercent: -0.1
+  type: 0

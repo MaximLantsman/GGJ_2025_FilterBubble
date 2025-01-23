@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41cc5c93033bc640b315b76d4f94cd9, type: 3}
+  m_Name: Fake6
+  m_EditorClassIdentifier: 
+  newstitle: No way
+  newsImage: {fileID: -6715802477802327494, guid: a1d6f81c2d51b3f4e89f9fa62e8dc25a, type: 3}
+  bluePercent: 0.2
+  redPercent: 0.2
+  stressPercent: -0.2
+  type: 3
